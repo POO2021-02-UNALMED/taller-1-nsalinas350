@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 Nelson Andrés Salinas Zapata
 Edad: 20 años
 Aspiraciones: Aprender lo suficiente de Programación orientada a Objetos, esto con el fin de ser capaz de aprender lo principal,
 analizar que tan cómodo me siento con el tipo de programación y, depronto, empezar a consultar cosas más avanzadas por mi cuenta
+=======
+La carpeta archivos no se pudo subir en un principio puesto que no se reconocían cambios. 
+Luego de crear el archivo "respuesta.txt" si se pudo hacer el commit.
+>>>>>>> 86befc129353737bfe3a7dbb3c8ea4acdb497089
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Respuesta:
+Porque se generan conflictos de sincronzación, durante está actividad no hubo tanto problema, pero de
+seguro si habrían incovenientes en ejercicios de programación, pues las líneas de abhajo son 
+dependientes de las de arriba y puede que el problema no se arregle añadiendo los dos códigos y ya;
+puede que toque modificar o eliminar fragmentos en alguna parte
