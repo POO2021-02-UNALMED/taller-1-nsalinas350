@@ -1,0 +1,2 @@
+La carpeta archivos no se pudo subir en un principio puesto que no se reconocían cambios. 
+Luego de crear el archivo "respuesta.txt" si se pudo hacer el commit.
